@@ -1,9 +1,18 @@
+
 Meu Primeiro Sistema no Git
 
-Alterei mais uma vez
+BRANCH
+São versões de um Sistema em desenvolvimento
 
-Nova linha adicionada
+COMMIT
+Lembra que o commit segue de um comentário breve do foi modificado.
 
-Novo Branch Teste-v2
+OBJETIVO da alteração e uma instrução da modificação
 
-nova linha ditada
+ótimo comando
+GIT DIFF mostra alterações no arquivo
+
+Apenas o nome do arquivo modificado
+git diff --name-only
+
+nova linha
